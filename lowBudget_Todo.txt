@@ -1,0 +1,40 @@
+
+
+
+
+
+feed apos
+
+need apos' face as cursor
+animate his mouth moving as a sprite
+
+various types of food should fall from the ceiling
+  spaghetti, ravioli, hamburgers
+  
+apos should make eating soundfx when consuming food
+this increments the food counter by 1
+players who feed apos the most food win
+
+this is all in one atlas
+
+screens + screenmanager
+
+two fonts, pixel font + large comic sans
+
+bkg music (free from online)
+
+title screen, game screen, score screen
+various resolutions
+only uses mouse click as input
+
+
+
+
+	
+load assets
+	music tracks
+	soundfx
+	
+game screen++
+	circus music plays
+	
